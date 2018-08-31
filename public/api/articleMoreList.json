@@ -1,0 +1,22 @@
+{
+  "errcode": 0,
+  "data": {
+    "articleList": [{
+      "id": 1,
+      "title": "写作怎么进行刻意练习？（附训练清单）",
+      "desc": "刻意练习，是进步最快的方法。“拆解、模仿、反馈、总结、反复”， 助你从写作小白变成高手。 如果你觉得某个人写的很好，想学习他的文风，就可以这样来...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/2106228-0245b781133a188d?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }, {
+      "id": 2,
+      "title": "写作怎么进行刻意练习？（附训练清单）",
+      "desc": "刻意练习，是进步最快的方法。“拆解、模仿、反馈、总结、反复”， 助你从写作小白变成高手。 如果你觉得某个人写的很好，想学习他的文风，就可以这样来...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/2106228-0245b781133a188d?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }, {
+      "id": 3,
+      "title": "写作怎么进行刻意练习？（附训练清单）",
+      "desc": "刻意练习，是进步最快的方法。“拆解、模仿、反馈、总结、反复”， 助你从写作小白变成高手。 如果你觉得某个人写的很好，想学习他的文风，就可以这样来...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/2106228-0245b781133a188d?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }]
+  },
+  "errmsg": "成功"
+}

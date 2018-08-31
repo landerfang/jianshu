@@ -72,6 +72,18 @@ export const ListInfo = styled.div`
   }
 `;
 
+export const LoadMore = styled.div`
+  width: 1005；
+  height: 40px;
+  line-height: 40px;
+  background: #a5a5a5;
+  text-align: center;
+  border-radius: 20px;
+  color: #fff;
+  margin: 30px 0;
+  cursor: pointer;
+`;
+
 export const HomeRight = styled.div`
   width: 280px;
   float: right;
@@ -95,4 +107,19 @@ export const WriterWrapper = styled.div`
   height: 440px;
   margin-bottom: 20px;
   border-bottom: 1px solid #000;
+`;
+
+export const BackTop = styled.div`
+  position: fixed;
+  right: 100px;
+  bottom: 100px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  border: 1px solid #ccc;
+  font-size: 12px;
+  background: #fff;
+  z-index: 999;
+  cursor: pointer;
 `;
